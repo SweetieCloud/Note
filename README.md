@@ -75,7 +75,5 @@ python3 -c 'from ultralytics import YOLO; model = YOLO("runs/train/yolov8n_voc_f
 ```
 > **Kỳ vọng:** Console in ra **`Model loaded successfully`**.
 
-
 ---
-
-Hoàn tất 4 bước trên là toàn bộ môi trường C++ Golden Model lẫn PyTorch Baseline đã sẵn sàng 100% để cả team cùng bắt tay vào viết mã RTL SystemVerilog!
+ 
